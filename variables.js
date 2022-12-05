@@ -1,10 +1,21 @@
 var email = "hithere@gmail.com"
-var userName = "bob"
-var city = "sacramento"
+console.log(email)
 
-console.log(email) = "wish@gmail.com"
-console.log(userName) = "sue"
-console.log(city) = "san diego"
+var userName = "bob"
+console.log(userName)
+
+var city = "sacramento"
+console.log(city)
+
+email = "wish@gmail.com"
+console.log(email) 
+
+userName = "sue"
+console.log(userName)
+
+city = "san diego"
+console.log(city) 
+
 
 
 var currentAge = 20
