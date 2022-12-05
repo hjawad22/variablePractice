@@ -2,8 +2,8 @@ var email = "hithere@gmail.com"
 var userName = "bob"
 var city = "sacramento"
 
-console.log(email) = "wish@gmail.com"
-console.log(userName) = "sue"
+console.log(email) ="wish@gmail.com"
+console.log(userName) ="sue"
 console.log(city) = "san diego"
 
 
